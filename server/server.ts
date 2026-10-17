@@ -24,7 +24,6 @@ app.use(
       "http://localhost:5173",
       "http://localhost:3000",
       "https://crayo-q6vp.vercel.app/",
-      process.env.FRONTEND_URL || "http://localhost:5173",
     ],
     credentials: true,
   })
