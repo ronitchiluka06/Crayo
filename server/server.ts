@@ -23,7 +23,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://crayo-q6vp.vercel.app/",
+      "https://crayo-q6vp.vercel.app",
     ],
     credentials: true,
   })
